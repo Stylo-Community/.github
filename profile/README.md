@@ -1,35 +1,53 @@
- <h1 align="center">Run JavaScript <a href="https://nodejs.org/en/download">Everywhere</a>.</h1><br>
+ <h1 align="center">Stylo <a href="https://stylobr.site">Community/a>.</h1><br>
 
 <p align="center">
-  <a href="https://nodejs.org/">
-    <img src="https://avatars.githubusercontent.com/u/9950313?s=200&v=4" alt="Node.js logo" height="140">
+  <a href="https://stylobr.site/">
+    <img src="hhttps://github.com/organizations/Stylo-Community/settings/profile" alt="Node.js logo" height="140">
   </a>
 </p>
 
 <p align="center">
-  Node.js® is a free, open-source, cross-platform JavaScript run-time environment—<br> that lets developers write command line tools and server-side scripts outside of a browser.
+  Uma comunidade voltada para desenvolvedores, focada em projetos open-<br>source e crescimento colaborativo.
 </p>
 
 <p align="center">
-  <a href="https://nodejs.org/en/download">Get Node.js® ✨</a>
+  <a href="https://stylobr.site">Stylo Community site® ✨</a>
   ·
-  <a href="https://github.com/nodejs/node/issues/new/choose">Report a bug on Node.js 🐞</a>
-  ·
-  <a href="https://nodejs.org/en/get-involved">Contribute to Node.js 🫶</a>
-  ·
-  <a href="https://openjsf.org/certification/">Get Certified 🎓</a>
+  <a href="https://discord.gg/xDjmK9ShuV">Report a bug on Stylo 🐞</a>
 </p>
 
 ----
 
-#### 👋 Contributing to Node.js.
+#### 🌟 Sobre Nós
 
-<sub>Node.js is an open-source project, and it's always looking for new contributions. From documentation, translation, contributing to our infrastructure or reporting a bug; any contribution is valued and welcome. Are you interested in contributing to Node.js? Give a read to our [Governance Model](https://github.com/nodejs/node/blob/main/GOVERNANCE.md) and the numerous ways you can [Get Involved](https://nodejs.org/en/get-involved) with Node.js!</sub>
+A Stylo Community é uma iniciativa voltada para desenvolvedores, com o objetivo principal de facilitar o dia a dia e apoiar quem está nessa área. Nosso foco é criar e reunir projetos open-source para disponibilizar à comunidade, ajudando quem precisa de uma base para começar ou dar continuidade ao seu projeto.
 
-#### 🦺 Help us making this Community safe.
 
-<sub>The Node.js GitHub org(anization) follows the [OpenJS Foundation](https://github.com/openjs-foundation/cross-project-council/blob/main/CODE_OF_CONDUCT.md) and [Node.js's Code of Conduct](https://github.com/nodejs/admin/blob/HEAD/CODE_OF_CONDUCT.md). Please abide by these Codes of Conduct when interacting with all repositories under the Node.js umbrella and when interacting with people.</sub>
+#### ✨ O que oferecemos:
+
+* **🚀 Projetos Open-Source:**
+    Reunimos uma variedade de projetos de código aberto, convidando todos os desenvolvedores a participar, aprender e praticar suas habilidades.
+* **🎓 Curadoria de Cursos:**
+    Mantemos uma seleção cuidadosa de cursos, incluindo opções gratuitas e pagas, todos escolhidos para enriquecer o aprendizado dos nossos membros.
+* **✍️ Blog Colaborativo:**
+    Um espaço para membros da comunidade compartilharem conhecimento, experiências e artigos relevantes, incentivando a troca de ideias.
+
+
+#### 📜 Nossa História
+
+A Stylo Community surgiu a partir de um projeto de logo que foi descontinuado. A partir disso, um dos fundadores decidiu criar a Stylo com o objetivo de ajudar desenvolvedores que enfrentam dificuldades em seus próprios projetos, além de disponibilizar todo tipo de conteúdo em open-source.
+
+Basicamente, o fundador passou por muitos desafios ao tentar manter um projeto sozinho e, por isso, decidiu apoiar outros desenvolvedores que também precisam de uma base para começar, além de incentivar o crescimento da comunidade de desenvolvimento.
+
+
+#### 🤝 Como Contribuir
+
+A Stylo Community é um projeto open-source e ficamos felizes com novas contribuições de todos os tipos! Seja corrigindo um erro, adicionando um recurso, melhorando a documentação ou compartilhando seu conhecimento.
+
+Para saber mais sobre como contribuir, por favor, leia nosso [Guia de Contribuição](LINK_PARA_SEU_GUIA_DE_CONTRIBUICAO_AQUI).
+
 
 #### 👾 Reporting Security Incidents.
 
-<sub>Please be mindful that security-related issues should be reported through our [Security Policy](https://github.com/nodejs/node/security/policy) as security-related issues and vulnerabilities can be exploited and we request confidentiality whenever possible.</sub>
+...
+
