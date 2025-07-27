@@ -1,4 +1,4 @@
- <h1 align="center">Stylo <a href="https://stylobr.site">Community/a>.</h1><br>
+ <h1 align="center">Stylo <a href="https://stylobr.site">Community</a>.</h1><br>
 
 <p align="center">
   <a href="https://stylobr.site/">
