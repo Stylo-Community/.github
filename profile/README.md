@@ -1,4 +1,4 @@
- <h1 align="center">Stylo <a href="https://stylobr.site">Community</a>.</h1><br>
+ <h1 align="center"><a href="https://stylobr.site">Stylo</a> Community.</h1><br>
 
 <p align="center">
   <a href="https://stylobr.site/">
@@ -13,7 +13,7 @@
 <p align="center">
   <a href="https://stylobr.site">Stylo Community site® ✨</a>
   ·
-  <a href="https://discord.gg/xDjmK9ShuV">Report a bug on Stylo 🐞</a>
+  <a href="https://discord.gg/xDjmK9ShuV">Stylo Discord 🐞</a>
 </p>
 
 ----
@@ -44,7 +44,7 @@ Basicamente, o fundador passou por muitos desafios ao tentar manter um projeto s
 
 A Stylo Community é um projeto open-source e ficamos felizes com novas contribuições de todos os tipos! Seja corrigindo um erro, adicionando um recurso, melhorando a documentação ou compartilhando seu conhecimento.
 
-Para saber mais sobre como contribuir, por favor, leia nosso [Guia de Contribuição](LINK_PARA_SEU_GUIA_DE_CONTRIBUICAO_AQUI).
+Para saber mais sobre como contribuir, por favor, leia nosso [Guia de Contribuição](https://github.com/Stylo-Community).
 
 
 #### 👾 Reporting Security Incidents.
