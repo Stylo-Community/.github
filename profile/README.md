@@ -1,4 +1,4 @@
- <h1 align="center"><a href="https://stylobr.site">Stylo</a> Community.</h1><br>
+<h1 align="center"><a href="https://stylobr.site">Stylo</a> Community.</h1><br>
 
 <p align="center">
   <a href="https://stylobr.site/">
@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  Uma comunidade voltada para desenvolvedores, focada em projetos open-<br>source e crescimento colaborativo.
+  A community focused on developers, centered on open-source projects and collaborative growth.
 </p>
 
 <p align="center">
@@ -18,36 +18,35 @@
 
 ----
 
-#### 🌟 Sobre Nós
+#### 🌟 About Us
 
-A Stylo Community é uma iniciativa voltada para desenvolvedores, com o objetivo principal de facilitar o dia a dia e apoiar quem está nessa área. Nosso foco é criar e reunir projetos open-source para disponibilizar à comunidade, ajudando quem precisa de uma base para começar ou dar continuidade ao seu projeto.
-
-
-#### ✨ O que oferecemos:
-
-* **🚀 Projetos Open-Source:**
-    Reunimos uma variedade de projetos de código aberto, convidando todos os desenvolvedores a participar, aprender e praticar suas habilidades.
-* **🎓 Curadoria de Cursos:**
-    Mantemos uma seleção cuidadosa de cursos, incluindo opções gratuitas e pagas, todos escolhidos para enriquecer o aprendizado dos nossos membros.
-* **✍️ Blog Colaborativo:**
-    Um espaço para membros da comunidade compartilharem conhecimento, experiências e artigos relevantes, incentivando a troca de ideias.
+Stylo Community is an initiative for developers, with the main goal of facilitating daily tasks and supporting those in this field. Our focus is to create and gather open-source projects to make them available to the community, helping those who need a foundation to start or continue their project.
 
 
-#### 📜 Nossa História
+#### ✨ What we offer:
 
-A Stylo Community surgiu a partir de um projeto de logo que foi descontinuado. A partir disso, um dos fundadores decidiu criar a Stylo com o objetivo de ajudar desenvolvedores que enfrentam dificuldades em seus próprios projetos, além de disponibilizar todo tipo de conteúdo em open-source.
+* **🚀 Open-Source Projects:**
+    We bring together a variety of open-source projects, inviting all developers to participate, learn, and practice their skills.
+* **🎓 Course Curation:**
+    We maintain a careful selection of courses, including free and paid options, all chosen to enrich the learning of our members.
+* **✍️ Collaborative Blog:**
+    A space for community members to share knowledge, experiences, and relevant articles, encouraging the exchange of ideas.
 
-Basicamente, o fundador passou por muitos desafios ao tentar manter um projeto sozinho e, por isso, decidiu apoiar outros desenvolvedores que também precisam de uma base para começar, além de incentivar o crescimento da comunidade de desenvolvimento.
+
+#### 📜 Our History
+
+Stylo Community originated from a discontinued logo project. From there, one of the founders decided to create Stylo with the goal of helping developers facing difficulties in their own projects, as well as making all kinds of open-source content available.
+
+Basically, the founder faced many challenges trying to maintain a project alone and, because of that, decided to support other developers who also need a foundation to start, in addition to encouraging the growth of the development community.
 
 
-#### 🤝 Como Contribuir
+#### 🤝 How to Contribute
 
-A Stylo Community é um projeto open-source e ficamos felizes com novas contribuições de todos os tipos! Seja corrigindo um erro, adicionando um recurso, melhorando a documentação ou compartilhando seu conhecimento.
+Stylo Community is an open-source project and we welcome new contributions of all types! Whether it's fixing a bug, adding a feature, improving documentation, or sharing your knowledge.
 
-Para saber mais sobre como contribuir, por favor, leia nosso [Guia de Contribuição](https://github.com/Stylo-Community).
+To learn more about how to contribute, please read our [Contribution Guide](https://github.com/Stylo-Community).
 
 
 #### 👾 Reporting Security Incidents.
 
 ...
-
