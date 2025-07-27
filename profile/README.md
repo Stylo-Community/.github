@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://stylobr.site/">
-    <img src="hhttps://github.com/organizations/Stylo-Community/settings/profile" alt="Node.js logo" height="140">
+    <img src="https://avatars.githubusercontent.com/u/217689814?s=200&v=4" alt="Stylo logo" height="140">
   </a>
 </p>
 
